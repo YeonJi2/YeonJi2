@@ -27,7 +27,7 @@ Then I've started creating Music box covers at some point, which was eventually 
 
 But currently I am NOT using any of these after switching my music software to LMMS, because I haven't had any time to add MMP(LLMS's file format) file support. I am planning to write new version that just accepts a audio file and renders waveform to a video, but I would need some free time first.
 
-### Twitch Live streaming
+### Twitch live streaming
 **NOTE**: I **ONLY** use Korean in my streams, so please do **NOT** use English. I "can" speak English, but it is very difficult to use two languages at the same time.
 
 https://www.twitch.tv/yeonji2/
@@ -50,7 +50,7 @@ And there is **one** software I wrote for drawing:
 
 ## My profile character
 My profile character is male, even though it may look like female because of his long hair. I chose long hair just because that's what I wanted.
-He is externally a human, internally a spider.
+He is externally a human, internally a spider. And he is wearing some kind of uniform, with big ribbon below his neck. Also, while it is not shown in the picture, he is wearing dark gray pants.
 
 **Fun fact**: Even when I had short hair, many people thought my character was actually girl. Not excatly sure why...
 
