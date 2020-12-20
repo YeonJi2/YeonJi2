@@ -8,7 +8,7 @@
 - [Software freedom](#software-freedom)
 
 ## Who am I
-**First of all, I'll be offline for next 1.5 years(probably), due to millitary enlistment.**
+**First of all, I'll be offline for next 1.5 years(probably), because I have to join the army.**
 
 I am random Korean person, and I'm interested in making various stuff, including:
 ### Software
