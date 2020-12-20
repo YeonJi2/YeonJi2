@@ -113,6 +113,6 @@ public class YeonJiKun extends Person implements Male, Idiot, WhatAmIDoing {
 ```
 
 ## Software freedom
-I've started taking software freedom seriously, and I've now moved most of my stuff from Free(as in freedom) Software. I've even decided to move from Clip Studio Paint Pro(which I've paid for not too long ago) to GIMP. The freedom allows user to modify and distribute(modified or unmodified) the software, so devs ususally don't put things that users do NOT want(ads, telemetry that cannot be disabled, etc...).
+I've started taking software freedom seriously, and I've now moved most of my stuff from Free(as in freedom) Software. I've even decided to move from Clip Studio Paint Pro(which I've paid to get a copy not too long ago) to GIMP. The freedom allows user to modify and distribute(modified or unmodified) the software, so devs ususally don't put things that users do NOT want(ads, telemetry that cannot be disabled, etc...).
 
 So I won't be testing my software on Windows, unless I wanted to test it for some reason. Some stuff might work on Windows, but I won't be providing any Windows instructions for any of my future projects.
